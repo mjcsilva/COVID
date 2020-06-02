@@ -10,10 +10,10 @@
 
 
 <item>
-<title></title>
+<title>ACÇAO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=LINK AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - NOME DO FILME</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>URL AQUI$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
+<link>https://azm.to/movie/survive-the-night$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - Watch Survive the Night</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
