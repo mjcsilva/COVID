@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR blue]|||[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/27/items/bem-vindo-1/Filmes.png</thumbnail>
+<name>[COLOR blue]*[/COLOR][COLOR white]*[/COLOR][COLOR blue]*[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR blue]*[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/32/items/kids_20200604/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mjcsilva/COVID/master/FILMES</externallink>
-<fanart>https://ia801401.us.archive.org/22/items/fanart_20200601/fanart.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/32/items/kids_20200604/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]**[/COLOR] - OS MELHORES FILMES - [COLOR deeppink]**[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR blue]|||[/COLOR]</name>
+<name>[COLOR blue]*[/COLOR][COLOR white]*[/COLOR][COLOR blue]*[/COLOR] [COLOR white]SÉRIES[/COLOR] [COLOR blue]*[/COLOR]</name>
 <thumbnail>https://ia601404.us.archive.org/27/items/bem-vindo-1/series.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801401.us.archive.org/22/items/fanart_20200601/fanart.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/32/items/kids_20200604/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]**[/COLOR] - AS MELHORES SÉRIES - [COLOR deeppink]**[/COLOR]</info>
 </channel>
 </channels>
 
@@ -30,14 +30,14 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR blue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR] [COLOR blue]|||[/COLOR]</name>
-<thumbnail>https://ia801404.us.archive.org/27/items/bem-vindo-1/infantil.png</thumbnail>
+<name>[COLOR blue]*[/COLOR][COLOR white]*[/COLOR][COLOR blue]*[/COLOR] [COLOR white]INFANTIL & JOVENS[/COLOR] [COLOR blue]*[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/32/items/kids_20200604/kids.png</thumbnail>
 <externallink>https://</externallink>
-<fanart>https://ia801401.us.archive.org/22/items/fanart_20200601/fanart.jpg</fanart>
+<fanart>https://ia801402.us.archive.org/32/items/kids_20200604/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - INFANTIL & JOVENS - [COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]**[/COLOR] - INFANTIL & JOVENS - [COLOR deeppink]**[/COLOR]</info>
 </channel>
 </channels>
 
