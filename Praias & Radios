@@ -116,6 +116,10 @@ https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
 #EXTINF:-1,Lisboa - Belém
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Rio de Janeiro - Copacabana
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Aeroporto de Congonhas de São Paulo
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 #EXTINF:-1,Rádio TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 #EXTINF:-1,Rádio Renascença
