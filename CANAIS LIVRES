@@ -168,3 +168,13 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:-1,Gabruu TV
 http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 1HD
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 2HD
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 3HD
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 4HD
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORTS",SPORTTV 5HD
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
